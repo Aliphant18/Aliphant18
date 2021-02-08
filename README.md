@@ -9,4 +9,4 @@
 
 <br>
 
- <script src="https://tryhackme.com/badge/341831"> </script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kasimaso.png" alt="TryHackMe">
