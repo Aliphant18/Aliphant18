@@ -9,5 +9,5 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600px">
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500px">
 
