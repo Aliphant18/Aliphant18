@@ -13,7 +13,7 @@ Hi, I'm Alan aka Aliphant, a Security Researcher & Developer from Germany.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently doing a Education for IT;
+- 👨🏽‍💻 I'm currently doing an apprenticeship as an IT specialist;
 - 💬 When you have Questions, write me;
 - :mens: Doing Sport in my Freetime;
 - :gift_heart: Taken;
