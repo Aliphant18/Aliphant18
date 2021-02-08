@@ -9,22 +9,3 @@
 
 <br>
 
-### More about me...
-
-```go
-package main
-
-type Me struct{
-  Code string
-  Job string
-}
-
-func main() {
-  me := &Me{
-    Job: "Freelancing",
-    Code: "https://zentreax.dev"
-  }
-  _ = me
-}
-```
----
