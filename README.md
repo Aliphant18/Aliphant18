@@ -38,7 +38,8 @@ const anmol = {
     askMeAbout: ["Sport", "Photography"],
     architecture: ["Serverless Architecture"],
     currentProject: "Learning Programm-Languages",
-    funFact: "When I have nothing to do or I am bored, I make cat sounds"
+    funFact: "When I have nothing to do or I am bored, I make cat sounds",
+    VPN: "oVPN.com"
 };
 ```
 ---
