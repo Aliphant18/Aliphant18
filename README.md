@@ -9,4 +9,4 @@
 
 <br>
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/Kasimaso.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Kasimaso.png" alt="TryHackMe" width="40px">
