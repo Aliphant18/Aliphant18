@@ -9,4 +9,4 @@
 
 <br>
 
- <script src="https://tryhackme.com/badge/341831"></script>
+ <script src="https://tryhackme.com/badge/341831"> </script>
