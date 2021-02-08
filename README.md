@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aliphant! 👋</h2>
+<h2> Hi, I'm Aliphant! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=aliphant18&show_icons=true&theme=radical" width="380">
 <p><em>Security Researcher & Developer<br>
   <!--Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
@@ -9,4 +9,4 @@
 
 <br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Kasimaso.png" alt="TryHackMe">
+
