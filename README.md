@@ -13,13 +13,12 @@ Hi, I'm Alan aka Aliphant, a Security Researcher & Developer from Germany.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 👨🏽‍💻 I’m currently doing a Education for IT;
+- 💬 When you have Questions, write me;
+- :mens: Doing Sport in my Freetime;
+- :gift_heart: Taken;
 
-**Languages and Tools:**  
+**Languages and Tools that i want to learn/use:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -33,27 +32,23 @@ Hi, I'm Alan aka Aliphant, a Security Researcher & Developer from Germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++        16 hrs 10 mins  █████████████████████▓░░░   86.15 % 
-Markdown   1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-HTML       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-TeX        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-YAML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+```go
+package main
+
+type Info struct{
+  Code string
+  Job string
+}
+
+func main() {
+  Info := &Info{
+    Job: "IT specialist for application development",
+    Code: "Not Found"
+  }
+  _ = Info
+}
 ```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,282 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 560 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+---
 
 
 📈 My GitHub Stats
