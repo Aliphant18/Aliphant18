@@ -9,5 +9,9 @@
 
 <br>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kasimaso.png?2" width="500px">
+
+<br>
+
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500px">
 
