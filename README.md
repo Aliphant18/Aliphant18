@@ -4,7 +4,7 @@
   <!--Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 </em></p>
 
-[![Twitter: Aliphant](https://img.shields.io/twitter/follow/zentreaxdev?style=flat-square)](https://twitter.com/Aliphant2020)
+[![Twitter: Aliphant](https://img.shields.io/twitter/follow/Aliphant?style=flat-square)](https://twitter.com/Aliphant2020)
 [![GitHub hahwul](https://img.shields.io/github/followers/zentreax?label=follow%20github&style=flat-square)](https://github.com/aliphant18)
 
 <br>
