@@ -53,7 +53,7 @@ func main() {
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aliphant18&show_icons=true&theme=gotham" alt="Aliphant" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aliphant18&show_icons=true&theme=radical" alt="Aliphant" />
 
 
 
