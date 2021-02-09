@@ -39,7 +39,7 @@ const anmol = {
     architecture: ["Serverless Architecture"],
     currentProject: "Learning Programm-Languages",
     funFact: "When I have nothing to do or I am bored, I make cat sounds",
-    VPN: "oVPN.com"
+    VPN: "perfect-privacy.com"
 };
 ```
 ---
