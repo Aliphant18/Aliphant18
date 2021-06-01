@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm Alan aka Aliphant, a Security Researcher & Developer from Germany.
+Hi, I'm Thomas Wolfenstein aka Aliphant, a Security Researcher & Developer from Germany.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
